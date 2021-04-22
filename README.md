@@ -19,11 +19,16 @@ We use Linear regression, Random Forest, Neural Network and Deep Neural network 
 Format: ![Alt Text](url)
 
 **a)** Isotropic Gaussian surface N= 600 points, rL=4μm,ξx=0.5μm,ξy=0.5μm,Rms=0.1μm 
+
 **b)** Anisotropic Gaussian surface N= 600 points, rL=6μm,ξx=0.μm,ξy=0.6μm, Rms=0.1μm
+
 **c)** Isotropic non-Gaussian surface N= 600 points, rL=6μm,ξx=0.5μm,ξy=0.5μm, Rms=0.05μm Sk=2, Ku=6
+
 **d)** Anisotropic  non-Gaussian  surface  N=  600  points,  L=6μm,ξx=0.2μm,ξy=0.6μm, Rms=0.05μm Sk=-0.4, Ku=2
 
 ## 3) Technical aspects
 Rather easy :)
 Just open the notebook file.
 In case downloading, you will need the datasets.
+
+
